@@ -1,1 +1,1 @@
-git repository
+git is a distributed repository
